@@ -1,4 +1,4 @@
-꾸준히 배우고 성장하는 개발자, 임명우입니다.
+반갑습니다.
 
 주요 스택 : <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">, <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
 

@@ -8,7 +8,7 @@
 
 <br>
 
-<h3 align="center">⭐️ 경험 ⭐️</h3>
+<h3 align="center">🙌 경험 🙌</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">&nbsp

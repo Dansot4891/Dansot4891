@@ -1,4 +1,4 @@
-<h2 align="center">반갑습니다. 모바일 개발자 임명우입니다.</h3>
+<h2 align="center">반갑습니다. 프론트엔드 개발자 임명우입니다.</h3>
 
 <h3 align="center">📖 주요 스택 📖</h3>
 <div align="center">

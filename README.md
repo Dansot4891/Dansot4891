@@ -3,7 +3,6 @@
 # 👋 반갑습니다, 프론트엔드 개발자 임명우입니다
 
 [![Velog](https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@mw000724/posts)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
 
 </div>
 

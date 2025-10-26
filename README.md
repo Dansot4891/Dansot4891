@@ -1,6 +1,6 @@
 <div>
   
-# 👋 반갑습니다, 프론트엔드 개발자 임명우입니다
+# 👋 반갑습니다, 모바일 앱 개발자 임명우입니다
 
 [![Velog](https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@mw000724/posts)
 
